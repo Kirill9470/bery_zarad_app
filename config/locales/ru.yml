@@ -1,0 +1,11 @@
+ru:
+  auth:
+    decode_token_error: 'Ошибка декодинга токена'
+    token_not_found: 'Токен пустой'
+  user:
+    not_found: 'Пользователь не найден'
+    change_balance:
+      success: 'Баланс успешно изменен'
+      failed: 'Ошибка изменения баланса'
+      operation_not_found: 'Операция не найдена'
+      amount_is_greater_than_zero: 'Cумма должна превышать 0'
